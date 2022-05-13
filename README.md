@@ -4,34 +4,39 @@
 - I build this project because I fascinated by the sorting algorithms and wanted to visualize them in action.
 - It also help others to comprehend the internal working of various sorting algorithms.
 
-# Implemented Sorting Algorithms
+## Implemented Sorting Algorithms
 
 - Bubble Sort &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O(n<sup>2</sup>)
-- Selection Sort &nbsp;&nbsp;&nbsp;&nbsp; O(n<sup>2</sup>)
+- Selection Sort &nbsp;&nbsp;&nbsp; O(n<sup>2</sup>)
 - Insertion Sort &nbsp;&nbsp;&nbsp;&nbsp; O(n<sup>2</sup>)
-- Merge Sort &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O(n log n)
+- Merge Sort &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O(n log n)
 - Quick Sort &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O(n log n)
 - Heap Sort &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O(n log n)
 
-# Color Codes
+## Color Codes
 
-![#30D5C8](https://via.placeholder.com/15/30D5C8/000000?text=+) Generic value in the array <br><br>
-![#4bc52e](https://via.placeholder.com/15/4bc52e/000000?text=+) Sorted <br><br>
-![#ffff50](https://via.placeholder.com/15/ffff50/000000?text=+) Key comparison <br><br>
-![#fc0104](https://via.placeholder.com/15/fc0104/000000?text=+) Value being swapped <br><br>
+🟧 `Randomized Array` <br><br>
+🟥 and 🟦 `Key comparisons` <br><br>
+🟩 `Sorted Array` <br><br>
 
-# Sorting Visualizer Interface
+## Sorting Visualizer Interface
+> ## Landing Interface
+![Default](https://user-images.githubusercontent.com/52111635/168355863-32b1f641-d6bd-479f-a929-79f05d648358.png)
 
-# Getting Started with Create React App
+<br />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> ## Sorted Array
+![Quick Sort](https://user-images.githubusercontent.com/52111635/168356389-5ee4da1e-f4c7-4f3d-bf57-e036f752efe3.png)
 
-## Available Scripts
+<br />
 
-In the project directory, you can run:
 
-### `npm start`
-
+## To run this app locally
+- Download or clone this repo
+- In the project directory, run:
+#### `npm install`
+then
+#### `npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
