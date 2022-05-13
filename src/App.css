@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f1f1f1;
+}
+
+@import url('./components/styles/button.css');
+
+@import url('./components/styles/dropdown.css');
+
+@import url('./components/styles/slider.css');
+
+@import url('./components/styles/toggle.css');
+
+@import url('./components/styles/visualizer.css');

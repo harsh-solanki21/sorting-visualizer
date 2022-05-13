@@ -1,0 +1,44 @@
+.header {
+  position: relative;
+  padding: 0 25px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-between;
+  background-color: aqua;
+}
+
+.sortingBars {
+  position: absolute;
+  top: 25%;
+  left: 5%;
+}
+
+.bars {
+  width: 10px;
+  background-color: #ff7f50;
+  margin-left: 4px;
+  display: inline-block;
+  border-radius: 10px;
+}
+
+.algoInfo {
+  position: absolute;
+  bottom: 30px;
+  left: 5%;
+  width: 90%;
+  height: 70px;
+  border: 3px solid #6495ed;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.algoInfo div {
+  margin-left: 30px;
+  color: #ff581c;
+  font-size: 25px;
+  font-weight: 800;
+}
